@@ -3,6 +3,8 @@ Inventory Management SaaS for E-commerce Sellers (with Google Sheets backend)
 
 <img width="1726" alt="image" src="https://github.com/user-attachments/assets/1e0f84ed-3825-429e-a869-0c822e8c57ca" />
 
+<img width="1727" alt="image" src="https://github.com/user-attachments/assets/29bd5f80-21b3-486d-87f0-35e25e59a0ef" />
+
 <img width="1720" alt="image" src="https://github.com/user-attachments/assets/8495fbc4-9c22-401b-9eeb-a2b777ed6913" />
 
 <img width="1720" alt="image" src="https://github.com/user-attachments/assets/3bca6ccb-5763-404f-9c30-3ea71249b209" />
